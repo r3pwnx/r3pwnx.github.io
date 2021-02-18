@@ -4,7 +4,7 @@ url: https://r3pwnx.me
 
 title: r3pwnx's world
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-dinky
 permalink:   /:categories/:title/
 links:
   - title: Me?
