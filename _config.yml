@@ -1,1 +1,13 @@
+repository: r3pwnx/r3pwnx.github.io
+github_url: https://github.com/r3pwnx
+url: https://r3pwnx.me
+
+title: r3pwnx's world
+
 theme: jekyll-theme-midnight
+permalink:   /:categories/:title/
+links:
+  - title: Me?
+    url: /me/
+  - title: Pieces
+    url: /pieces/
